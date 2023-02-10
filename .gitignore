@@ -1,0 +1,10 @@
+vendor/
+dist/
+plugins/
+reader/
+generator/
+*.xlsx
+*.sql
+backend/test_pdf.php
+backend/sample_letter_back.html
+backend/sample_letter.html
